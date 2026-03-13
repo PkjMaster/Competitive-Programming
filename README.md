@@ -1,4 +1,4 @@
-# Programa-o-Competitiva
+# Programação Competitiva
 Aqui irei colocar minhas resoluções de questões de programação competitiva como forma de aprendizagem.
 
 ## Material de estudo:
