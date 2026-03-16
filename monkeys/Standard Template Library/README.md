@@ -3,7 +3,6 @@
 STL is a library that contains a lot of data structures and functions(algorithms), that help us to solve our problems.
 
 ## Main Structures
-# C++ Data Structures Overview
 
 | Strucure | Description |
 |----------|-------------|
